@@ -7,12 +7,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na **FIAP**, com um f
 ---
 
 ### 🛠️ Habilidades
-
--   **Linguagens:**
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
+-    **Linguagens:** `JavaScript` `Python` `Java` 
 -   **Frameworks:** `React` `Node.js` `Spring Boot` `Quartz`
 -   **Bancos de dados:** `OracleSQL`
 -   **Ferramentas:** `Git` `Docker` `VS Code` `IntelliJ`
@@ -39,3 +34,6 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na **FIAP**, com um f
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-scarpin/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Scarpin12)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)

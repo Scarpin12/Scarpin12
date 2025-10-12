@@ -7,10 +7,9 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na **FIAP**, com um f
 ---
 
 ### 🛠️ Habilidades
--    **Linguagens:** `JavaScript` `Python` `Java` 
--   **Frameworks:** `React` `Node.js` `Spring Boot` `Quartz`
+-    **Linguagens:** `JavaScript` `Python` `Java` `React`
 -   **Bancos de dados:** `OracleSQL`
--   **Ferramentas:** `Git` `Docker` `VS Code` `IntelliJ`
+-   **Ferramentas:** `Git`  `VS Code` `IntelliJ`
 
 ---
 

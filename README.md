@@ -60,6 +60,6 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na **FIAP**, com um f
 >
 > [Confira nosso repositório sobre o Global Solutions 2025.1](https://github.com/Scarpin12/UrbanCare) -> NOTA **92/100**
 >
-> <img width="846" height="480" alt="image" src="https://github.com/user-attachments/assets/02c90a25-5e5c-481c-955e-2b46f7483ffd" />
+> ![Objetivo do UrbanCare](UrbanCareObjetivo.jpg)
 
     

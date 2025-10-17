@@ -51,14 +51,14 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na **FIAP**, com um f
 >[!TIP]
 > Minha desempenho  atual na **Universidade FIAP** é:
 >
->[![image](https://github.com/user-attachments/assets/bdd0b29e-f0ea-4f00-900c-495b2c8533f9)](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
+>[![image](blob:https://web.whatsapp.com/cb27db5a-4e70-45eb-8008-2efc51ad9bc9)](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
 
 >[!IMPORTANT]
 > Em Julho de 2025, participamos do Hackathon da FIAP sobre a Crise Climática, também conhecido como **Global Solution**.
 >
 > Meu colega de equipe e eu desenvolvemos uma grande ideia de projeto sobre a crise climática com sensores barométricos, múltiplos modelos de machine learning, data lake e um grande chatbot em apenas 12 dias. Nós também entregamos o S.I.R.E.N.A. (Sistema Integrado de Resposta às Emergências e Notificações Ambientais), um sistema de simulação que gerencia estruturas de dados, GPS e histórico de incidentes ambientais para sugerir ao usuário que se mova para um local mais seguro.
 >
-> [Confira nosso repositório sobre o Global Solutions 2025.1](https://github.com/biralavor/FIAP-GlobalSolution-2025-1) -> NOTA **92/100**
+> [Confira nosso repositório sobre o Global Solutions 2025.1](https://github.com/Scarpin12/UrbanCare) -> NOTA **92/100**
 >
 > <img width="846" height="480" alt="image" src="https://github.com/user-attachments/assets/02c90a25-5e5c-481c-955e-2b46f7483ffd" />
 

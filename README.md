@@ -38,3 +38,28 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na **FIAP**, com um f
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+
+
+---
+
+| FIAP | Tecnólogo em Análise e Desenvolvimento de Sistemas |
+| - | - |
+| [![image](https://github.com/user-attachments/assets/ad1d1bc1-22d6-4d89-a817-9efe43f9544d)](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/) | Jan 2025 - Dez 2026 (em andamento) <br><br> **Áreas de Estudo:** <br> Inteligência Artificial & Chat-bot (usando IBM WatsonX, IBM Cloud) <br> Construção de Banco de Dados Relacional (usando Oracle SQL Database Modeler) <br> Pensamento Computacional com Python <br> Domain Driven Design com Java (usando IntelliJ) <br> Engenharia de Design Front-end (HTML, CSS, JavaScript, Figma, React, TypeScript, NodeJs) <br> Engenharia de Software e Modelo de Negócios (Jira, Miro, Scrum, Kanban) |
+
+
+>[!TIP]
+> Minha desempenho  atual na **Universidade FIAP** é:
+>
+>[![image](https://github.com/user-attachments/assets/bdd0b29e-f0ea-4f00-900c-495b2c8533f9)](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
+
+>[!IMPORTANT]
+> Em Julho de 2025, participamos do Hackathon da FIAP sobre a Crise Climática, também conhecido como **Global Solution**.
+>
+> Meu colega de equipe e eu desenvolvemos uma grande ideia de projeto sobre a crise climática com sensores barométricos, múltiplos modelos de machine learning, data lake e um grande chatbot em apenas 12 dias. Nós também entregamos o S.I.R.E.N.A. (Sistema Integrado de Resposta às Emergências e Notificações Ambientais), um sistema de simulação que gerencia estruturas de dados, GPS e histórico de incidentes ambientais para sugerir ao usuário que se mova para um local mais seguro.
+>
+> [Confira nosso repositório sobre o Global Solutions 2025.1](https://github.com/biralavor/FIAP-GlobalSolution-2025-1) -> NOTA **92/100**
+>
+> <img width="846" height="480" alt="image" src="https://github.com/user-attachments/assets/02c90a25-5e5c-481c-955e-2b46f7483ffd" />
+
+    

@@ -16,7 +16,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na **FIAP**, com um f
 ### 🚀 Projetos em Destaque
 
 * **[ConectaCare]** - Projeto da faculdade em parceria com o Hospital das Clínicas.
-    [Link para o repositório](https://github.com/wesley1812/Conecte-Care-HC)
+    [Link para o repositório](https://github.com/Scarpin12/Conecte-Care-HC)
 
 * **[UrbanCare]** - Projeto da faculdade para fornecer suporte a comunidades vulneráveis, utilizando tecnologia acessível com painéis públicos em tempo real.
     [Link para o repositório](https://github.com/Scarpin12/UrbanCare)

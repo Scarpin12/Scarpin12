@@ -51,7 +51,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na **FIAP**, com um f
 >[!TIP]
 > Minha desempenho  atual na **Universidade FIAP** é:
 >
->[![image](blob:https://web.whatsapp.com/cb27db5a-4e70-45eb-8008-2efc51ad9bc9)](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
+>![Resultado](resultado.jpg)
 
 >[!IMPORTANT]
 > Em Julho de 2025, participamos do Hackathon da FIAP sobre a Crise Climática, também conhecido como **Global Solution**.

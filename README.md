@@ -48,7 +48,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na **FIAP**, com um f
 
 
 >[!TIP]
-> Minha desempenho  atual na **Universidade FIAP** é:
+> Meu desempenho  atual na **Universidade FIAP** é:
 >
 >![Resultado](resultado.jpg)
 

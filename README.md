@@ -10,6 +10,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na **FIAP**, com um f
 -    **Linguagens:** `JavaScript` `Python` `Java` `React`
 -   **Bancos de dados:** `OracleSQL`
 -   **Ferramentas:** `Git`  `VS Code` `IntelliJ`
+-   **FrameWorks:** `Quarkus` `Spring`
 
 ---
 
@@ -55,7 +56,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na **FIAP**, com um f
 >[!IMPORTANT]
 > Em Julho de 2025, participamos do Hackathon da FIAP sobre a Crise Climática, também conhecido como **Global Solution**.
 >
-> Meu colega de equipe e eu desenvolvemos uma grande ideia de projeto sobre a crise climática com sensores barométricos, múltiplos modelos de machine learning, data lake e um grande chatbot em apenas 12 dias. Nós também entregamos o S.I.R.E.N.A. (Sistema Integrado de Resposta às Emergências e Notificações Ambientais), um sistema de simulação que gerencia estruturas de dados, GPS e histórico de incidentes ambientais para sugerir ao usuário que se mova para um local mais seguro.
+> Eu e a equipe  desenvolvemos uma grande ideia de projeto sobre a crise climática, Visando uma parte da população precária e sem acesso à tecnologia, nosso projeto tem como objetivo atingir essas pessoas e oferecer o devido apoio necessário em situações climáticas, com alertas sincronizados da Defesa Civil em painéis espalhados por todos os ambientes, além de ferramentas de busca por abrigo e orientações necessárias.
 >
 > [Confira nosso repositório sobre o Global Solutions 2025.1](https://github.com/Scarpin12/UrbanCare) -> NOTA **92/100**
 >
